@@ -81,4 +81,3 @@ Things I build, break and learn, at [blog.vrp2206.com](https://blog.vrp2206.com/
 - [Getting a homelab ready to run for three months without me](https://blog.vrp2206.com/posts/homelab-hardening/)
 - [Planning errands is the travelling salesman problem in disguise](https://blog.vrp2206.com/posts/errand-route-planner/)
 - [My "LAN speed test" was actually an internet speed test](https://blog.vrp2206.com/posts/lan-speed-test/)
-- [My pre-first act as AWS club president was a disaster (and I learned a lot)](https://blog.vrp2206.com/posts/pre-first-act-aws-club-president/)
