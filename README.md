@@ -8,6 +8,7 @@ B.Sc. Computer Science @ Monash University Malaysia · Subang Jaya, Malaysia
 [![Blog](https://img.shields.io/badge/Blog-blog.vrp.dev-b2622d?style=flat-square&labelColor=201e1d)](https://blog.vrp.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fvrp22-b2622d?style=flat-square&labelColor=201e1d)](https://www.linkedin.com/in/vrp22)
 [![Email](https://img.shields.io/badge/Email-get%20in%20touch-b2622d?style=flat-square&labelColor=201e1d)](mailto:rahulpemsing@gmail.com)
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-b2622d?style=flat-square&labelColor=201e1d)](https://github.com/sponsors/VRP2206)
 [![All links](https://img.shields.io/badge/All%20links-info.vrp.dev-b2622d?style=flat-square&labelColor=201e1d)](https://info.vrp.dev/)
 
 </div>
